@@ -1,12 +1,31 @@
-# MERN Stack Project
+# Event Management Project
 
 ## Description
-This is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). The project includes a **frontend** for user interactions and a **backend** for managing APIs and database operations.
+This is a full-stack web application built using the MERN stack (MongoDB, Express, React + Vite, Node.js, Tailwind CSS). The project includes a **frontend** for user interactions and a **backend** for managing APIs and database operations.
 
 ## Features
-- [List key features of your project, e.g., User authentication, CRUD operations, etc.]
-- Responsive design
-- RESTful APIs
+- **Backend**:
+   - User authentication.
+   - JWT Token.
+   - CRUD operations.
+   - RESTful APIs endpoints.
+   - Integration with a database (e.g., MongoDB).
+- **Frontend**:
+   - Interactive UI for managing events.
+   - Integration with backend APIs.
+   - Built with React and Vite.
+
+## Technologies Used
+- **Backend**:
+  - Node.js
+  - Express.js
+  - MongoDB 
+- **Frontend**:
+  - React
+  - Vite
+  - Axios (for API calls)
+  - Tailwind CSS (for styling)
+
 
 ## Project Structure
 - `frontend/`: Frontend React application.
