@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+frontend/.env
+Backend/.env
+
+# Build files
+frontend/build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# IDE files
+.vscode/
+.idea/
