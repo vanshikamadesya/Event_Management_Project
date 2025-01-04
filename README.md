@@ -20,4 +20,4 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/vanshikamadesya/Event_Management_Project.git>
+   git clone https://github.com/vanshikamadesya/Event_Management_Project.git
